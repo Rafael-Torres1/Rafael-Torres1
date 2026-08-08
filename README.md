@@ -71,10 +71,3 @@ First-year **Systems Development (AMS)** student at **Etec Zona Leste**. Focused
 
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafael-torres-b23a982b1/)
 - **Email:** rafaeltorresomega6@gmail.com
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafael-torres-b23a982b1/)
-- **Email:** rafaeltorresomega6@gmail.com
