@@ -29,15 +29,6 @@ First-year **Systems Development (AMS)** student at **Etec Zona Leste**. Focused
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafael-Torres1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafael-Torres1&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafael-torres-b23a982b1/)
